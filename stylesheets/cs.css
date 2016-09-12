@@ -308,7 +308,7 @@ html{font-family:yahei;box-sizing: border-box;}
 	margin-left:18px;
 	margin-top:14px;
 	border-bottom:1px solid #312F33;
-   
+        font-size:14px;
 }
 .jiabin{
 	height:20px;
@@ -333,7 +333,7 @@ html{font-family:yahei;box-sizing: border-box;}
 .xuesheng{
 	height:20px;
 	width:auto;
-	color:blue;
+	color:#2194EF;
 	margin:0 8px 0 0;
 	line-height: 20px;
     text-align: center;
