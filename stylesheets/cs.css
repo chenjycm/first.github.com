@@ -126,9 +126,11 @@ html{font-family:yahei;box-sizing: border-box;}
 	 background-color: #1E212B;
 	 background: rgba(14, 10, 22,0.5) ;
 	 filter:alpha(opacity=30); 
+	 
 }
 
 .left2 h2{
+	position:relative;
 	height:30px;
     padding: 14px 0 0 20px;
     background: black;
@@ -224,11 +226,13 @@ html{font-family:yahei;box-sizing: border-box;}
 	color:white;
 	font-size:26px;
 	margin:54px 0 0 156px;
+	position:relative;
 }
 .lefttime{
 	color:white;
 	font-size:24px;
 	margin:22px 0 32px 200px;
+	position:relative;
 	}
 .lefttime span{
     display: inline-block;
@@ -238,6 +242,7 @@ html{font-family:yahei;box-sizing: border-box;}
 	text-align:center;
 	margin:0 5px;
 	background-color:#5A5A5A;
+	position:relative;
 }
 .midform{
 	margin:7px 0 0 100px;
